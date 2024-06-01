@@ -67,7 +67,7 @@ def trans_pride(index, tick, context):
     else:
         return WHITE
 
-lesbian_pride = flag([0xD62800, 0xFF9B56, 0xFFFFFF,  0xD462A6, 0xA40062])
+lesbian_pride = flag([0xD62800, 0xFF9B56, 0xFFFFFF, 0xD462A6, 0xA40062])
 bisexual_pride = flag([0xD60270, 0xD60270, 0x9B4F96, 0x0038A8, 0x0038A8])
 
 def solid_color(color):
